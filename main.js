@@ -1,0 +1,1 @@
+console.log("Cześć, to ja z pliku main.js!")
